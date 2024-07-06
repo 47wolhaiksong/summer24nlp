@@ -1,7 +1,7 @@
 # Summer24nlp
 
 ## Part 1: data preprocessing
-- Data preprocessing - [📓](./) [🌐](https://github.com/47wolhaiksong/summer24nlp/blob/main/NLP_Preprocessing.html)  
+- Data preprocessing - [📓](https://github.com/47wolhaiksong/summer24nlp/blob/main/NLP_Preprocessing.ipynb) [🌐](./NLP_Preprocessing.html)  
   ### Performs several preprocessing operations using [NLTK](https://www.nltk.org/) -
   - Stopword removal
   - Stemminng, lemmatization
