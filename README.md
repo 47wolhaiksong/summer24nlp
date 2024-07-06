@@ -49,6 +49,7 @@
 
 ### Development
 - Model Hosting - [🌐](https://huggingface.co/spaces/adarksky/summer24-fine-tuning)
+
 - Final Web Deployment
   - Website - [🌐](https://presidentgpt2.web.app/)
   - Source Code - [💻](https://github.com/FardeenCODEIIEST/GPT2Frontend)
