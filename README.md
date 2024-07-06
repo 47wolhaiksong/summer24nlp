@@ -13,6 +13,7 @@
   - bag-of-word
   - TF-IDF
   - word2vec
+  - GloVe
   - BERT
 
 ## Part 2: Chatbot based on US president speeches
