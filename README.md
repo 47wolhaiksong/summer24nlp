@@ -31,6 +31,11 @@
   - BERT
 
 ## Part 2: Chatbot based on US president speeches
+### Dataset
+  - [All state unions dataset (till George W. Bush)](https://raw.githubusercontent.com/FardeenCODEIIEST/WebTechnologyLab/main/all_state_unions.txt)
+
+  - [Rest (since Barack Obama) scrapped](https://millercenter.org/the-presidency/presidential-speeches)
+
 ### Code
   - bigram model from scratch on Joe Biden dataset <sup>[*](#f1)</sup> - [📓](https://github.com/47wolhaiksong/summer24nlp/blob/main/biden_bigram.ipynb) [🌐](./biden_bigram.html)
 
@@ -44,7 +49,9 @@
 
 ### Development
 - Model Hosting - [🌐](https://huggingface.co/spaces/adarksky/summer24-fine-tuning)
-- Final Web Deployment - [🌐](https://presidentgpt2.web.app/) Source Code - [💻](https://github.com/FardeenCODEIIEST/GPT2Frontend)
+- Final Web Deployment
+  - Website - [🌐](https://presidentgpt2.web.app/)
+  - Source Code - [💻](https://github.com/FardeenCODEIIEST/GPT2Frontend)
 
 # Acknowledgements
 <br>
