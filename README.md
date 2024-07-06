@@ -2,11 +2,11 @@
 
 <div style="display:flex; justify-content:space-between">
   <div style="display:flex; flex-direction:column;margin-left:10px">
-    <h2>Mentor</h2>
+    <h2><u>Mentor</u></h2>
     <h3>Prof. Asit Kumar Das</h3>
   </div>
   <div style="display: flex; flex-direction:column; margin-right:20px">
-  <h2>Members</h2>
+  <h2><u>Members</u></h2>
   <h3>Sumeet Soreng</h3>
   <h3>Barnik Roy</h3>
   <h3>Sk Fardeen Hossain</h3>
