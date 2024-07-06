@@ -16,7 +16,7 @@
   - BERT
 
 ## Part 2: Chatbot based on US president speeches
- ### Code
+### Code
   - bigram model from scratch on Joe Biden dataset <sup>[*](#f1)</sup> - [📓](https://github.com/47wolhaiksong/summer24nlp/blob/main/biden_bigram.ipynb) [🌐](./biden_bigram.html)
   - gpt from scratch on Joe Biden dataset <sup>[*](#f1)</sup> - [📓](https://github.com/47wolhaiksong/summer24nlp/blob/main/biden_GPT.ipynb) [🌐](./biden_GPT.html)
   - gpt-2 finetuning on Joe Biden dataset - [📓](https://github.com/47wolhaiksong/summer24nlp/blob/main/biden_gpt2.ipynb) [🌐](./biden_gpt2.html)
